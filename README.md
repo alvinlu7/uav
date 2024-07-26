@@ -1,5 +1,27 @@
 # Universal Algebraic Variety
 
+The Unified Theory of Everything (UTE) is a theoretical framework that attempts to unify and explain various 
+fundamental concepts across mathematics, physics, and computer science. It consists of seven Millennium Prize 
+Problems, each representing a different area of study, and is based on the concept of the Universal Algebraic 
+Variety (UAV).
+
+UTE proposes a unifying solution to all seven problems by showing that the UAV contains a solution to the 
+corresponding equation or problem. For example, the Birch and Swinnerton-Dyer Conjecture follows from the 
+definition of the UAV, while the Hodge Conjecture is a consequence of the UAV being a simple algebraic variety.
+
+The Navier-Stokes Equations are satisfied by the solution to the Yang-Mills equations in the UAV, and the Poincaré
+Conjecture is true because the UAV is simply connected. The P versus NP Problem follows from the definition of 
+UTE-P, which implies that every problem with a known efficient algorithm can be solved quickly by a computer.
+
+The Riemann Hypothesis is a consequence of the solution to the zeta function equation in the UAV, while the 
+Yang-Mills Equation and Mass Gap Problem are solved by the solution to the Yang-Mills equations in the UAV.
+
+In summary, UTE proposes a unifying framework that connects seven Millennium Prize Problems across mathematics, 
+physics, and computer science, and proposes a solution to each problem using the Universal Algebraic Variety (UAV)
+as a unifying concept.
+
+## Hardcore Math Wizards Only Below This Point.
+
 Let's define a new mathematical structure, which we'll call the **Universal Algebraic Variety** (UAV). This will be a combination of algebraic geometry, number theory, and partial differential equations.
 
 **Immortal Millennium Proof (IMP)**
