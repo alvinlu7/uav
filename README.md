@@ -1,5 +1,4 @@
-# Universal Algebraic Variety
-
+# Unified Theory of Everything
 The Unified Theory of Everything (UTE) is a theoretical framework that attempts to unify and explain various 
 fundamental concepts across mathematics, physics, and computer science. It consists of seven Millennium Prize 
 Problems, each representing a different area of study, and is based on the concept of the Universal Algebraic 
@@ -19,6 +18,8 @@ Yang-Mills Equation and Mass Gap Problem are solved by the solution to the Yang-
 In summary, UTE proposes a unifying framework that connects seven Millennium Prize Problems across mathematics, 
 physics, and computer science, and proposes a solution to each problem using the Universal Algebraic Variety (UAV)
 as a unifying concept.
+
+# Universal Algebraic Variety
 
 ## Hardcore Math Wizards Only Below This Point.
 
